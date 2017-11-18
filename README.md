@@ -1,4 +1,6 @@
 # Rest Assured Testing
 
-I've added some basic REST API Tests in a separate Module, and will add
-more functionalities to it. I am using the 'Fake' [JSON-SERVER](https://github.com/typicode/json-server).
+I am using the 'Fake' [JSON-SERVER](https://github.com/typicode/json-server) to conduct
+some simple Rest API Testing using the Rest Assured Libraries.
+
+Attempt to add 'Profiles' in the POM.xml file in order to run from the Terminal.
