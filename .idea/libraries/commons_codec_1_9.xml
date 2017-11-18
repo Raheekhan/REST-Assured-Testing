@@ -1,0 +1,31 @@
+<component name="libraryTable">
+  <library name="commons-codec-1.9">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/Selenium/rest-assured-3.0.5-dist/rest-assured-3.0.5-deps/commons-codec-1.9.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Selenium/rest-assured-3.0.5-dist/rest-assured-3.0.5-deps/commons-lang3-3.4.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Selenium/rest-assured-3.0.5-dist/rest-assured-3.0.5-deps/commons-logging-1.2.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Selenium/rest-assured-3.0.5-dist/rest-assured-3.0.5-deps/groovy-2.4.9.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Selenium/rest-assured-3.0.5-dist/rest-assured-3.0.5-deps/groovy-json-2.4.9.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Selenium/rest-assured-3.0.5-dist/rest-assured-3.0.5-deps/groovy-xml-2.4.9.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Selenium/rest-assured-3.0.5-dist/rest-assured-3.0.5-deps/hamcrest-core-1.3.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Selenium/rest-assured-3.0.5-dist/rest-assured-3.0.5-deps/hamcrest-library-1.3.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Selenium/rest-assured-3.0.5-dist/rest-assured-3.0.5-deps/httpclient-4.5.3.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Selenium/rest-assured-3.0.5-dist/rest-assured-3.0.5-deps/httpcore-4.4.6.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Selenium/rest-assured-3.0.5-dist/rest-assured-3.0.5-deps/httpmime-4.5.1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Selenium/rest-assured-3.0.5-dist/rest-assured-3.0.5-deps/rest-assured-3.0.5.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Selenium/rest-assured-3.0.5-dist/rest-assured-3.0.5-deps/tagsoup-1.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Desktop/Selenium/rest-assured-3.0.5-dist/rest-assured-3.0.5-deps/json-path-3.0.5-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Selenium/rest-assured-3.0.5-dist/rest-assured-3.0.5-deps/rest-assured-3.0.5-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Selenium/rest-assured-3.0.5-dist/rest-assured-3.0.5-deps/rest-assured-common-3.0.5-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Selenium/rest-assured-3.0.5-dist/rest-assured-3.0.5-deps/xml-path-3.0.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Desktop/Selenium/rest-assured-3.0.5-dist/rest-assured-3.0.5-deps/json-path-3.0.5-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Selenium/rest-assured-3.0.5-dist/rest-assured-3.0.5-deps/rest-assured-3.0.5-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Selenium/rest-assured-3.0.5-dist/rest-assured-3.0.5-deps/rest-assured-common-3.0.5-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Selenium/rest-assured-3.0.5-dist/rest-assured-3.0.5-deps/xml-path-3.0.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
